@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="name">Olá Mundo!</string>
+    <string name="save">Save</string>
+    <string name="ask_for_nickname">Write your nickname</string>
 </resources>
