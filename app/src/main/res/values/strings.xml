@@ -1,6 +1,17 @@
 <resources>
     <string name="app_name">My Bio</string>
-    <string name="name">Olá Mundo!</string>
-    <string name="save">Save</string>
+    <string name="name">José Casimiro Pereira</string>
+    <string name="save">Continue</string>
     <string name="ask_for_nickname">Write your nickname</string>
+    <string name="curriculum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus cursus ante in orci scelerisque pulvinar. Nunc sollicitudin varius neque id interdum. Vivamus urna turpis, dignissim ut erat vitae, ornare facilisis leo. Aenean malesuada nunc ut lacus maximus, vel facilisis metus posuere. Mauris neque libero, venenatis quis purus non, mollis fermentum dui. Praesent in placerat mauris. Vivamus sed sodales lacus. Nam sit amet massa quis nibh vulputate tristique ut ut dolor. Suspendisse accumsan ligula a tortor sollicitudin aliquet.
+
+          Nullam laoreet nec nunc at elementum. Mauris condimentum augue vel malesuada rhoncus. Suspendisse tincidunt dui at fermentum porta. Maecenas cursus iaculis dapibus. Sed faucibus sem non tempus bibendum. Quisque neque massa, aliquet sit amet massa non, gravida fermentum velit. Sed id egestas risus, a dictum diam. Nullam maximus dui in ullamcorper tincidunt. Donec et finibus mauris. Duis bibendum nisi vel erat tincidunt, vel condimentum lorem tempor. Sed lacinia sem egestas, mollis nisl id, convallis velit. Nulla sit amet elit erat.
+
+          Etiam eget velit consectetur, molestie nulla vel, porttitor metus. Proin massa arcu, fermentum sed consequat eu, sollicitudin et arcu. Suspendisse commodo suscipit mauris id tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi et eleifend leo. Donec neque mi, sagittis a porta eu, elementum eu mauris. Sed ut ante ultrices, consequat eros vel, mattis neque. Suspendisse efficitur lacus risus, ut ullamcorper quam lobortis auctor. Aenean id neque sed ante ultricies suscipit tincidunt at arcu. In quis vestibulum dui. Mauris mattis lacinia ligula, at condimentum purus tristique et. Sed vel tortor quam. Pellentesque consectetur faucibus ex non blandit.
+
+          Phasellus fringilla nulla quis arcu vestibulum, quis volutpat nisl semper. Cras vel quam molestie, mollis orci vel, suscipit lacus. Cras ac placerat tellus. Mauris interdum et urna nec pretium. Curabitur tempor dolor eros, a ultrices nibh blandit eget. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc nec libero non enim finibus ultrices eget quis magna. Curabitur sollicitudin ex at pharetra placerat. Praesent ac vulputate justo. Aliquam erat volutpat. Aliquam elementum rutrum risus ultrices commodo. Ut non dolor dapibus, commodo velit sit amet, tristique leo. Pellentesque gravida ante ipsum, eu convallis nisl aliquam ut. Sed convallis quam cursus odio cursus dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+          Fusce nibh sapien, molestie sed arcu sit amet, sagittis efficitur orci. Integer ipsum arcu, tempus in tincidunt at, elementum euismod tellus. In vestibulum est nec leo auctor, vel molestie ipsum bibendum. Proin tristique eu nibh ut ullamcorper. In fringilla turpis vel quam facilisis consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla efficitur mauris eget mauris tristique, non fringilla risus placerat. Cras id augue at mauris fermentum faucibus. Integer imperdiet nunc ut enim consectetur, ut mattis nisl consectetur. Aliquam ut orci eu lectus consequat vehicula. Mauris ullamcorper nisl vel rhoncus lacinia. Fusce dictum diam sapien, id ornare ipsum finibus sit amet. </string>
+
+
 </resources>
